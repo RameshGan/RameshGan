@@ -8,18 +8,11 @@ I'm currently in the process of migrating my flagship projects to this public pr
 
 ### 🛠 Tech Stack & Interests
 *   **Languages:** Python, JavaScript, Modern C++
-*   **Web:** React, Tailwind CSS, Node.js.
-*   **Systems:** Memory Management, Encryption, Performance Optimization.
-*   **Tools:** Git, Docker,Windows
+*   **Web:** HTML, CSS, JavaScript, Node
+*   **Systems:** Memory Management, Windows applications Performance Optimization.
+*   **Tools:** Visual Studio, Visual Studio Code, Git, Office
 
-### 🚀 Upcoming Showcase Projects
+### 🚀 Projects
+[sytem-monitor] A simple dashboard app 
 
-*   **[Project 2 Name]**: A Python-based automation tool for [Purpose].
-*   **[Project 3 Name]**: A responsive Web Application integrated with [API Name].
-*   **[Project 1 Name]**: A high-performance Modern C++ utility for [Purpose].
 
----
-
-### 📫 How to reach me
-*   **LinkedIn:** [Link to your profile]
-*   **Portfolio/Blog:** [Link or "Coming Soon"]
